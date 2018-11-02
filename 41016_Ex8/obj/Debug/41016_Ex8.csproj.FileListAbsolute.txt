@@ -7,3 +7,13 @@ C:\Users\B1F01\Desktop\41016_Ex8\41016_Ex8\obj\Debug\_41016_Ex8.Properties.Resou
 C:\Users\B1F01\Desktop\41016_Ex8\41016_Ex8\obj\Debug\41016_Ex8.csproj.GenerateResource.Cache
 C:\Users\B1F01\Desktop\41016_Ex8\41016_Ex8\obj\Debug\41016_Ex8.exe
 C:\Users\B1F01\Desktop\41016_Ex8\41016_Ex8\obj\Debug\41016_Ex8.pdb
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\bin\Debug\41016_Ex8.exe.config
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\bin\Debug\41016_Ex8.exe
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\bin\Debug\41016_Ex8.pdb
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\41016_Ex8.csprojResolveAssemblyReference.cache
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\_41016_Ex8.Multiplication.resources
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\_41016_Ex8.Properties.Resources.resources
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\41016_Ex8.csproj.GenerateResource.cache
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\41016_Ex8.csproj.CoreCompileInputs.cache
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\41016_Ex8.exe
+C:\Users\range\Desktop\41016_Ex8-master\41016_Ex8\obj\Debug\41016_Ex8.pdb

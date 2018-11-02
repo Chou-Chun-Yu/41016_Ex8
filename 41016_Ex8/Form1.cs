@@ -40,14 +40,11 @@ namespace _41016_Ex8
                         result += yStart + "\t";
                     }
                     result += "\r\n";
-                }
-                yStart = Convert.ToInt32(tb_yStart.Text);
+                }           
                 for (; xStart <= xEnd; xStart++)
                 {
-
-                    yStart = Convert.ToInt32(tb_yStart.Text);
                     result += xStart + "\t";
-                    for (; yStart <= yEnd; yStart++)
+                    for (yStart = Convert.ToInt32(tb_yStart.Text); yStart <= yEnd; yStart++)
                     {
                         result += yStart + "*" + xStart + "=" + xStart * yStart + "\t";
                     }
@@ -59,7 +56,6 @@ namespace _41016_Ex8
             {
                 MessageBox.Show(err.Message);
             }
-           
         }
     }
 }
